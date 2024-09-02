@@ -1,0 +1,21 @@
+baseurl: ''
+description: |
+  Loker pechon Lagata bongshogoto
+  Loker pechon marata sobhabgoto
+  LIKE SPAM KORE KETE PORBEN NA BHODROLOKER MOTO FOLLOW KORBEN
+footer_website: bongoarchive.org
+header_img: media/daz.nut.jpg
+ig_category: Digital creator
+ig_userid: '64663539888'
+ig_username: daz.nut
+ig_website: null
+include:
+- media
+name: null
+plugins:
+- jekyll-remote-theme
+remote_theme: diptanilsaha/jekyll-theme-instagram
+theme_config:
+  archive: true
+title: daz.nut
+url: 'https://daznut.bongoarchive.org/'
