@@ -1,0 +1,28 @@
+---
+archive_date: 2024-09-02
+code: C-k-nlMyzMA
+date: 2024-08-12 17:11:55+00:00
+id: '3433144214849532672'
+layout: post
+media:
+- id: '3433144214849532672'
+  type: video
+  url: media/C-k-nlMyzMA/3433144214849532672.mp4
+permalink: /p/C-k-nlMyzMA/
+thumbnail: media/C-k-nlMyzMA/3433144214849532672.jpg
+title: Video by daz.nut
+---
+
+No problem! Here's the information about the Mercedes CLR GTR:  
+  
+The Mercedes CLR GTR is a remarkable racing car celebrated for its outstanding performance and sleek design. Powered by a potent 6.0-liter V12 engine, it delivers over 600 horsepower.  
+  
+Acceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a remarkable top speed surprising 320 km/h.🥇  
+  
+Incorporating adventure aerodynamic features and cutting-edge stability technologies, the CLR GTR ensures exceptional stability and control, particularly during high-speed maneuvers. 💨  
+  
+Originally priced at around $1.5 million, the Mercedes CLR GTR is considered one of the most exclusive and prestigious racing cars ever produced. 💰  
+  
+Its limited production run of just five units adds to its rarity, making it highly sought after by racing enthusiasts and collectors worldwide. 🌎  
+  
+#bengalicomedy #asianmemes #bengalitroll #pakistanimemes #bengalijokes #thekolkatabuzz #ig #funny #dailymemes #desibanter #india #follow #arabmemes #sylhet #relatable #comedy #muslim #trending #muslimmemes #dhakagraam #bengaliquote #brownmemes #dhakagram #halalmemes #kolkatadiary #funnymeme #banglaquote #bongguy #igers #kolkataquotes
